@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Myour - One Page Resume CV Hugo Theme</title>
+    <link>https://myour-hugo.netlify.app/</link>
+    <description>Recent content in Home on Myour - One Page Resume CV Hugo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Jul 2020 13:06:26 +0600</lastBuildDate><atom:link href="https://myour-hugo.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://myour-hugo.netlify.app/test/</link>
+      <pubDate>Sat, 02 Jul 2022 17:02:58 +0300</pubDate>
+      
+      <guid>https://myour-hugo.netlify.app/test/</guid>
+      <description>Test Simple Page</description>
+    </item>
+    
+    <item>
+      <title>Designer Conference at Florida 2020</title>
+      <link>https://myour-hugo.netlify.app/blog/designer-conference-at-florida-2020/</link>
+      <pubDate>Mon, 13 Jul 2020 13:06:26 +0600</pubDate>
+      
+      <guid>https://myour-hugo.netlify.app/blog/designer-conference-at-florida-2020/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Benjamin Franklins thoughts about new designers</title>
+      <link>https://myour-hugo.netlify.app/blog/benjamin-franklins-thoughts-about-new-designers/</link>
+      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://myour-hugo.netlify.app/blog/benjamin-franklins-thoughts-about-new-designers/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Designers thoughts about mobile UI</title>
+      <link>https://myour-hugo.netlify.app/blog/designers-thoughts-about-mobile-ui/</link>
+      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://myour-hugo.netlify.app/blog/designers-thoughts-about-mobile-ui/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>How to become acreative designer</title>
+      <link>https://myour-hugo.netlify.app/blog/how-to-become-acreative-designer/</link>
+      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://myour-hugo.netlify.app/blog/how-to-become-acreative-designer/</guid>
+      <description>Introduction Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>New designers limitations</title>
+      <link>https://myour-hugo.netlify.app/blog/new-designers-limitations/</link>
+      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://myour-hugo.netlify.app/blog/new-designers-limitations/</guid>
+      <description>Introduction Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Things you must know as a designer</title>
+      <link>https://myour-hugo.netlify.app/blog/things-you-must-know-as-a-designer/</link>
+      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://myour-hugo.netlify.app/blog/things-you-must-know-as-a-designer/</guid>
+      <description>Introduction Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>World&#39;s Most Famous App Developers and Designers</title>
+      <link>https://myour-hugo.netlify.app/blog/world-most-famous-app-developers-and-designers/</link>
+      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://myour-hugo.netlify.app/blog/world-most-famous-app-developers-and-designers/</guid>
+      <description>Introduction Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>You must know this before becoming a designer</title>
+      <link>https://myour-hugo.netlify.app/blog/you-must-know-this-before-becoming-a-designer/</link>
+      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
+      
+      <guid>https://myour-hugo.netlify.app/blog/you-must-know-this-before-becoming-a-designer/</guid>
+      <description>Introduction Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Markdown Formatting Demo</title>
+      <link>https://myour-hugo.netlify.app/blog/markdown-formatting-demo/</link>
+      <pubDate>Fri, 13 Sep 2019 12:49:27 +0600</pubDate>
+      
+      <guid>https://myour-hugo.netlify.app/blog/markdown-formatting-demo/</guid>
+      <description>This example Markdown file compliments of markdown-it.github.io
+h1 Heading 8-) h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Horizontal Rules Typographic replacements Enable typographer option to see result.</description>
+    </item>
+    
+    <item>
+      <title>Amore Mio Three Cups</title>
+      <link>https://myour-hugo.netlify.app/portfolio/amore-mio-three-cups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://myour-hugo.netlify.app/portfolio/amore-mio-three-cups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Canvas Tote Bag MockUp</title>
+      <link>https://myour-hugo.netlify.app/portfolio/canvas-tote-bag-mockup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://myour-hugo.netlify.app/portfolio/canvas-tote-bag-mockup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cardboard Box</title>
+      <link>https://myour-hugo.netlify.app/portfolio/cardboard-box/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://myour-hugo.netlify.app/portfolio/cardboard-box/</guid>
+      <description>So striking at of to welcomed resolved. Northward by described up household therefore attention. Excellence decisively nay man yet impression for contrasted remarkably.</description>
+    </item>
+    
+    <item>
+      <title>Coffee Cup In Hand</title>
+      <link>https://myour-hugo.netlify.app/portfolio/coffee-cup-in-hand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://myour-hugo.netlify.app/portfolio/coffee-cup-in-hand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Home 2</title>
+      <link>https://myour-hugo.netlify.app/index-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://myour-hugo.netlify.app/index-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Home 3</title>
+      <link>https://myour-hugo.netlify.app/index-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://myour-hugo.netlify.app/index-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Home 4</title>
+      <link>https://myour-hugo.netlify.app/index-slider/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://myour-hugo.netlify.app/index-slider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Home 5</title>
+      <link>https://myour-hugo.netlify.app/index-video/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://myour-hugo.netlify.app/index-video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Love &amp; Care Ceramic Bottles</title>
+      <link>https://myour-hugo.netlify.app/portfolio/love-care-ceramic-bottles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://myour-hugo.netlify.app/portfolio/love-care-ceramic-bottles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marta Veludo Beautiful Poster</title>
+      <link>https://myour-hugo.netlify.app/portfolio/marta-veludo-beautiful-poster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://myour-hugo.netlify.app/portfolio/marta-veludo-beautiful-poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimal Poster Frame</title>
+      <link>https://myour-hugo.netlify.app/portfolio/minimal-poster-frame/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://myour-hugo.netlify.app/portfolio/minimal-poster-frame/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shopping gift bag</title>
+      <link>https://myour-hugo.netlify.app/portfolio/shopping-gift-bag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://myour-hugo.netlify.app/portfolio/shopping-gift-bag/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
