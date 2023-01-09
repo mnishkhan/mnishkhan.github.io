@@ -1615,7 +1615,7 @@
           </div>
 
           <!-- contact form -->
-          <div class="contact-form">
+          <div class="contact-form" id="contact-form">
             <form id="cform" action="https://formspree.io/f/meqnbjzk" method="post">
               <div class="group-val">
                 <div class="label">Full Name <strong>*</strong></div>
@@ -1759,6 +1759,7 @@ function myFunction(){
             oReq.open("GET", url, true);
             oReq.send();
 			console.log("message-sent")
+		  document.getElementById('contact-form').style.display = 'none';
 	
         }}    
     
